@@ -7,18 +7,21 @@ Run Your LingoX Code
 
 # Function
 > log()
+
 Example Code:
 `log("Hello World")`
 Output:
 `Hello World`
 
 > input()
+
 Example Code:
 `YourInput = input("Enter>")`
 OutPut:
 `Enter>`
 
 > Math Function
+
 Example Code:
 ```
 a = 1+1
